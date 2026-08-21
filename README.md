@@ -6,9 +6,6 @@ Embedded Linux and kernel software engineer. I work close to the hardware: devic
 - Building kdevview, a CLI tool to inspect the device state of a Linux system
 - Reach me on [LinkedIn](https://www.linkedin.com/in/olivier-tanoh/)
 
-## GitHub Stats
-![Olivier's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliviertanoh&show_icons=true&theme=tokyonight)
-
 ## Skills
 
 #### Languages
