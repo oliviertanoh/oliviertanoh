@@ -4,7 +4,7 @@ Embedded Linux and kernel software engineer. I work close to the hardware: devic
 
 - Contributing to the Linux kernel (staging cleanups merged, working toward an upstream IIO sensor driver)
 - Building kdevview, a CLI tool to inspect the device state of a Linux system
-- Reach me on [LinkedIn](https://www.linkedin.com/in/olivier-tanoh/)
+- Reach me on [LinkedIn](https://www.linkedin.com/in/olivier-tanoh-51853a218)
 
 ## Skills
 
