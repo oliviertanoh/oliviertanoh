@@ -24,5 +24,5 @@ Embedded Linux and kernel software engineer. I work close to the hardware: devic
 - Networking on embedded: dual-Ethernet, driver-level work
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/olivier-tanoh-51853a218
+- [LinkedIn](https://www.linkedin.com/in/olivier-tanoh-51853a218)
 - [Malt](https://www.malt.fr/profile/oliviertanoh)
